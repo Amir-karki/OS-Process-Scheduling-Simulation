@@ -1,0 +1,8 @@
+scheduler,avg_waiting_time,avg_turnaround_time,avg_response_time,cpu_utilization
+"First-Come, First-Served",0.0,23.2,15.0,100.0
+Shortest Job First,0.0,20.2,12.0,100.0
+Shortest Remaining Time First,0.0,20.2,12.0,100.0
+Round Robin (TQ=4),0.0,32.8,6.6,100.0
+Priority,0.0,20.8,12.6,100.0
+Priority (Preemptive),0.0,20.8,12.6,100.0
+Multilevel Queue,0.0,29.4,7.2,100.0

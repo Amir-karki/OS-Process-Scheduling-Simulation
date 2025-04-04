@@ -1,0 +1,6 @@
+,PID,Name,Arrival Time,Burst Time,Priority,Start Time,Finish Time,Waiting Time,Turnaround Time,Response Time
+0,1,Process-1,0,10,2,0,10,0,10,0
+1,2,Process-2,0,8,5,10,18,0,18,10
+2,3,Process-3,2,9,3,18,27,0,25,16
+3,5,Process-5,5,8,1,27,35,0,30,22
+4,4,Process-4,8,6,4,35,41,0,33,27
